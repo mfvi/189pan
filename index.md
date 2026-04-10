@@ -2,12 +2,12 @@
 
 [![签到状态](https://github.com/mfvi/189pan/actions/workflows/main.yml/badge.svg)](https://github.com/mfvi/189pan/actions/workflows/main.yml) [![项目主页](https://img.shields.io/badge/GitHub-项目主页-blue?logo=github)](https://github.com/mfvi/189pan)
 
-**最后更新:** 2026-04-09 23:06:40 CST
+**最后更新:** 2026-04-10 12:31:01 CST
 
 ## 快速导航
 
 - 🔄 [查看Action运行记录](https://github.com/mfvi/189pan/actions)
-- 📋 [查看最新运行](https://github.com/mfvi/189pan/actions/runs/24197541061)
+- 📋 [查看最新运行](https://github.com/mfvi/189pan/actions/runs/24226459346)
 - 🏠 [返回项目主页](https://github.com/mfvi/189pan)
 - ⚙️ [手动触发签到](https://github.com/mfvi/189pan/actions/workflows/main.yml)
 
@@ -16,30 +16,31 @@
 # 天翼云盘自动签到抽奖程序
 
 ## 执行概览
-- **启动时间**: 2026-04-09 23:06:42
+- **启动时间**: 2026-04-10 12:31:02
 - **账户数量**: 2 个
 
 ## 账户1
 ### 执行结果
 - **登录状态**: 登录成功
-- **签到结果**: 已签到，获得36M空间
+- **签到结果**: 签到成功，获得68M空间
 - **抽奖结果**:
   - ❌ 第1次: 抽奖失败，次数不足
   - ❌ 第2次: 抽奖失败，次数不足
   - ❌ 第3次: 抽奖失败，次数不足
 
 ## 账户2
+第1次抽奖出错: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 ### 执行结果
 - **登录状态**: 登录成功
-- **签到结果**: 已签到，获得26M空间
+- **签到结果**: 签到成功，获得56M空间
 - **抽奖结果**:
-  - ❌ 第1次: 抽奖失败，次数不足
+  - ❌ 第1次: 抽奖出错: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
   - ❌ 第2次: 抽奖失败，次数不足
   - ❌ 第3次: 抽奖失败，次数不足
 
 ---
 ## 执行统计
-- **结束时间**: 2026-04-09 23:07:29
-- **运行时长**: 46.73 秒
+- **结束时间**: 2026-04-10 12:31:43
+- **运行时长**: 40.69 秒
 
 ✅ **所有账户处理完成！**
